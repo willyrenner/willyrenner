@@ -1,6 +1,6 @@
 # Olá Mundo!
-- ☕ Atualmente estou aprendendo: Java, HTML, CSS e JavaScript.
-- 💬 Sobre mim: Meu nome é Willy Renner, tenho 16 anos e estou cursando o segundo ano de Informática para Internet no IFRN/CA.
+- ☕ Atualmente estou aprendendo: Python, PHP e Banco de Dados.
+- 💬 Sobre mim: Meu nome é Willy Renner, tenho 17 anos e estou cursando o terceiro ano de Informática para Internet no IFRN/CA.
 - 📫 Contato: willyrenner2808@gmail.com
 
 #
