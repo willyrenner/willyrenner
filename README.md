@@ -8,10 +8,10 @@
 <div style="display: flex;">
   <a href="https://github.com/willyrenner"></a>
   <div>
-  <img style="margin-right: 15px" height="150em" src="https://github-readme-stats.vercel.app/api?username=willyrenner&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img style="margin-right: 15px" height="160em" src="https://github-readme-stats.vercel.app/api?username=willyrenner&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   </div>
   <div>
-  <img height="150em" src="https://camo.githubusercontent.com/4b6cf41ee78f7e36077753239209ea5f91ed75edfcdef445fd27b6b1a2cff34c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d77696c6c7972656e6e6572266c61796f75743d636f6d70616374266c616e67735f636f756e743d3136267468656d653d6a6f6c6c79"/>
+  <img height="160em" src="https://camo.githubusercontent.com/4b6cf41ee78f7e36077753239209ea5f91ed75edfcdef445fd27b6b1a2cff34c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d77696c6c7972656e6e6572266c61796f75743d636f6d70616374266c616e67735f636f756e743d3136267468656d653d6a6f6c6c79"/>
   </div>
 </div>
 
