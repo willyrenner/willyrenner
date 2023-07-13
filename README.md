@@ -16,8 +16,11 @@
 
 <div style="display: inline_block><br>
   <img title="HTML5" align="center" alt="HTML" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img title="HTML5" align="center" alt="HTML" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img title="CSS3" align="center" alt="CSS" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img title="JavaScript" align="center" alt="JavaScript" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img title="Java" align="center" alt="Java" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
+  <img title="PHP" align="center" alt="Java" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img title="Python" align="center" alt="Java" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img title="MySQL" align="center" alt="Java" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
