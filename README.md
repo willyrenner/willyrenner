@@ -5,7 +5,7 @@
 
 #
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: center; flex-direction: column;">
   <a href="https://github.com/willyrenner"></a>
   <div>
   <img style="margin-right: 15px" height="160em" src="https://github-readme-stats.vercel.app/api?username=willyrenner&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
