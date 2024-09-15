@@ -1,6 +1,6 @@
 # Olá Mundo!
 - ☕ Atualmente estou estudando: Python, PHP e React.
-- 💬 Sobre mim: Meu nome é Willy Renner, tenho 19 anos e estou cursando o terceiro ano de Informática para Internet no IFRN/CA.
+- 💬 Sobre mim: Meu nome é Willy Renner, tenho 19 anos e estou cursando o quarto ano de Informática para Internet no IFRN/CA.
 - 📫 Contato: willyrenner2808@gmail.com
 
 #
